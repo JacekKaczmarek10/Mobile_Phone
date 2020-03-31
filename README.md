@@ -25,7 +25,7 @@ add new contact, edit existing contact, delete existing contact.
 
 Adding new Contact window
 
-![](https://raw.githubusercontent.com/JacekKaczmarek10/Moblie_Phone/master/ScreenShots_1/addcontact.png?token=AN3NZCFW7LAEX2R5I7PQRMK6QNW2O)
+![](https://raw.githubusercontent.com/JacekKaczmarek10/Moblie_Phone/master/ScreenShots_1/addcontact.png?token=AN3NZCFQGNRS37ES4RRZ5QS6QNYTM)
 
 
 Clicking on the instagram button casues Instagram window to apper.
