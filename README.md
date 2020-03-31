@@ -29,14 +29,14 @@ Adding new Contact window
 ![](https://raw.githubusercontent.com/JacekKaczmarek10/Moblie_Phone/master/ScreenShots_1/addcontact.png?token=AN3NZCFQGNRS37ES4RRZ5QS6QNYTM)
 
 
-Clicking on the instagram button casues Instagram window to appear.
+Clicking on the Open Instagram button casues Instagram window to appear.
 It is possible to view the instagram in this window.
 
 ![](https://raw.githubusercontent.com/JacekKaczmarek10/Moblie_Phone/master/ScreenShots_1/instagram.png?token=AN3NZCGAOKXY4IBFDK5QNRS6QNYWY)
 
 Next buttons are music and stop music. These buttoms play and stop song called "Lady hear me tonight". Song is in mp3 format.
 
-Clicking on the systemInfo button casues systemInfo window to appear.
+Clicking on the Load Data button casues systemInfo window to appear.
 
 ![](https://raw.githubusercontent.com/JacekKaczmarek10/Moblie_Phone/master/ScreenShots_1/systeminfo.png?token=AN3NZCC7VV6F4LW7LQOEXHC6QNYYM)
 
