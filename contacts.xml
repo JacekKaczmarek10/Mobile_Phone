@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Bartosz</first_name>
+	<last_name>Ławniczak</last_name>
+	<phone_number>798654321</phone_number>
+	<notes>Ziomal</notes>
+</contact>
+<contact>
+	<first_name>Iza</first_name>
+	<last_name>Piechowiak</last_name>
+	<phone_number>781577955</phone_number>
+	<notes>Friends</notes>
+</contact>
+<contact>
+	<first_name>Konrad</first_name>
+	<last_name>Socha</last_name>
+	<phone_number>64598732</phone_number>
+	<notes>Ziomal</notes>
+</contact>
+<contact>
+	<first_name>Maciej</first_name>
+	<last_name>Kaczmarek</last_name>
+	<phone_number>60145897</phone_number>
+	<notes>Family</notes>
+</contact>
+<contact>
+	<first_name>Jakub </first_name>
+	<last_name>Kaczmarek</last_name>
+	<phone_number>654123987</phone_number>
+	<notes>family</notes>
+</contact>
+</contacts>

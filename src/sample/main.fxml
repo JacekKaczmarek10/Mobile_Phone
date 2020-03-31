@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.control.cell.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane fx:id="mainPanel" prefHeight="500.0" prefWidth="500.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/10.0.2-internal" fx:controller="sample.Controller">
+   <top>
+      <MenuBar>
+         <menus>
+            <Menu text="Contacts">
+               <items>
+                  <MenuItem onAction="#showAddContactDialog" text="Add" />
+               </items>
+               <items>
+                  <MenuItem onAction="#showEditContactDialog" text="Edit..." />
+               </items>
+               <items>
+                  <MenuItem onAction="#showDeleteContactDialog" text="Delete" />
+               </items>
+            </Menu>
+         </menus>
+      </MenuBar>
+   </top>
+
+   <center>
+      <TableView fx:id="contactsTable">
+         <columns>
+            <TableColumn text="First Name">
+               <cellValueFactory>
+                  <PropertyValueFactory property="firstName" />
+               </cellValueFactory>
+            </TableColumn>
+            <TableColumn text="Last Name">
+               <cellValueFactory>
+                  <PropertyValueFactory property="lastName" />
+               </cellValueFactory>
+            </TableColumn>
+            <TableColumn text="Phone number">
+               <cellValueFactory>
+                  <PropertyValueFactory property="phoneNumber" />
+               </cellValueFactory>
+            </TableColumn>
+            <TableColumn text="Notes">
+               <cellValueFactory>
+                  <PropertyValueFactory property="notes" />
+               </cellValueFactory>
+            </TableColumn>
+         </columns>
+      </TableView>
+
+   </center>
+</BorderPane>
