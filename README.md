@@ -9,7 +9,7 @@ At first appears menu, so user can select one of 8 availible options.
 
 
 
-![](https://raw.githubusercontent.com/JacekKaczmarek10/Moblie_Phone/master/ScreenShots_1/menu.png?token=AN3NZCGAIUK3NEUL7NBLPLC6QNXHA)
+![](https://raw.githubusercontent.com/JacekKaczmarek10/Moblie_Phone/master/ScreenShots_1/menu.png?token=AN3NZCAHNYDDPKQTRYA4GHS6QNYIO)
 
 
 Each function has special method.
