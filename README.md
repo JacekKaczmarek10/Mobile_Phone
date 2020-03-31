@@ -16,7 +16,7 @@ Each function has special method.
 
 Clicking on the field Contacts cause a contact window to appear.
 
-![](https://raw.githubusercontent.com/JacekKaczmarek10/Moblie_Phone/master/ScreenShots_1/contacts.png?token=AN3NZCCYFDRKSBGI46OTMJS6QNWVO)
+![](https://raw.githubusercontent.com/JacekKaczmarek10/Moblie_Phone/master/ScreenShots_1/contacts.png?token=AN3NZCGCWV65LWEN2BABHB26QNYO6)
 
 In Contact Window there are 3 options availble:
 add new contact, edit existing contact, delete existing contact.
