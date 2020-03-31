@@ -21,7 +21,7 @@ Clicking on the field Contacts cause a contact window to appear.
 In Contact Window there are 3 options availble:
 add new contact, edit existing contact, delete existing contact.
 
-![](https://raw.githubusercontent.com/JacekKaczmarek10/Moblie_Phone/master/ScreenShots_1/contact_functions.png?token=AN3NZCHR4B7SLN5F2U4FVBC6QNXBQ)
+![](https://raw.githubusercontent.com/JacekKaczmarek10/Moblie_Phone/master/ScreenShots_1/contact_functions.png?token=AN3NZCAJOMM3EYFHVUXP7426QNYRM)
 
 Adding new Contact window
 
