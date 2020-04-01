@@ -18,13 +18,14 @@ Clicking on the button Contacts causes a contact window to appear.
 
 ![](https://raw.githubusercontent.com/JacekKaczmarek10/Moblie_Phone/master/ScreenShots_1/contacts.png?token=AN3NZCGCWV65LWEN2BABHB26QNYO6)
 
-
+I created small database to store informations. Each contact is an element of ObservableList. 
+I created class Contact to store all information of each contact (first name, last name, number, note).
 There are 3 options available in the contact window:
-add new contact, edit existing contact, delete existing contact.
+add new contact, edit existing contact, delete existing contact. I created class Contact to store all information of each contact.
 
 ![](https://raw.githubusercontent.com/JacekKaczmarek10/Moblie_Phone/master/ScreenShots_1/contact_functions.png?token=AN3NZCAJOMM3EYFHVUXP7426QNYRM)
 
-Adding new Contact window
+Adding new Contact window into database
 
 ![](https://raw.githubusercontent.com/JacekKaczmarek10/Moblie_Phone/master/ScreenShots_1/addcontact.png?token=AN3NZCFQGNRS37ES4RRZ5QS6QNYTM)
 
